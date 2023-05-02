@@ -1,0 +1,50 @@
+[
+    {
+        "name": "John Doe",
+        "profile_picture": "https://example.com/images/chef1.jpg",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "specialty": "Italian cuisine"
+    },
+    {
+        "name": "Jane Smith",
+        "profile_picture": "https://example.com/images/chef2.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 30,
+        "likes": 750,
+        "specialty": "French cuisine"
+    },
+    {
+        "name": "Mike Johnson",
+        "profile_picture": "https://example.com/images/chef3.jpg",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 500,
+        "specialty": "Asian cuisine"
+    },
+    {
+        "name": "Sarah Lee",
+        "profile_picture": "https://example.com/images/chef4.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 2000,
+        "specialty": "Mediterranean cuisine"
+    },
+    {
+        "name": "David Kim",
+        "profile_picture": "https://example.com/images/chef5.jpg",
+        "years_of_experience": 12,
+        "num_recipes": 75,
+        "likes": 1500,
+        "specialty": "Mexican cuisine"
+    },
+    {
+        "name": "Emily Chen",
+        "profile_picture": "https://example.com/images/chef6.jpg",
+        "years_of_experience": 7,
+        "num_recipes": 40,
+        "likes": 600,
+        "specialty": "Vegetarian cuisine"
+    }
+]
