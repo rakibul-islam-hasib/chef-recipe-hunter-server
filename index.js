@@ -13,6 +13,11 @@ app.get('/', (req, res) => {
 app.get('/api/chefs', (req, res) => {
   res.send(chefData);
 });
+app.get('/api/chefs/:id', (req, res) => {
+  const id = req.params.id;
+  const chef = chefData.find((chef) => chef._id == id);
+  res.send(chef);
+});
 app.get('/api/category', (req, res) => {
   res.send(category);
 });
