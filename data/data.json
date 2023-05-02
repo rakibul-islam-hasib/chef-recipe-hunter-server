@@ -1,9 +1,9 @@
 [
     {
-        "name": "John Doe",
+        "name": "Gordon Ramsay",
+        "description": "Gordon Ramsay is a British chef, restaurateur, television personality, and writer. He has been awarded a total of 16 Michelin stars, and is known for his fiery temper and high standards in the kitchen.",
         "_id": "1",
         "img": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683024312~exp=1683024912~hmac=b59eca85b6cae790c2ff97f4aaa0b7de239b56df0a635132da3c87954297bf08",
-        "profile_picture": "https://example.com/images/chef1.jpg",
         "years_of_experience": 10,
         "num_recipes": 50,
         "likes": 1000,
@@ -20,22 +20,21 @@
                     "parmesan cheese"
                 ],
                 "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
-                "image": "https://example.com/images/pesto-pasta.jpg"
+                "image": "https://img.freepik.com/premium-photo/tasty-italian-pizza-with-tomato-sauce-parmesan_1220-4325.jpg?w=740"
             },
             {
-                "name": "Margherita Pizza",
+                "name": "Taco Pizza",
                 "ingredients": [
                     "pizza dough",
                     "tomatoes",
-                    "mozzarella cheese",
-                    "basil",
-                    "olive oil"
+                    "Taco cheese",
+                    "basil"
                 ],
                 "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
-                "image": "https://example.com/images/margherita-pizza.jpg"
+                "image": "https://img.freepik.com/premium-photo/pizza-with-side-vegetables-it_759095-4046.jpg?w=740"
             },
             {
-                "name": "Chicken Alfredo",
+                "name": "Shrimp Alfredo",
                 "ingredients": [
                     "fettuccine pasta",
                     "chicken breast",
@@ -44,7 +43,7 @@
                     "parmesan cheese"
                 ],
                 "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
-                "image": "https://example.com/images/chicken-alfredo.jpg"
+                "image": "https://img.freepik.com/free-photo/plate-italian-seafood-shrimp-noodles_1205-11873.jpg?w=740&t=st=1683038428~exp=1683039028~hmac=85f80f5126e1863512ffa305941ce7c166f20e9ab8e7cf53fd2f083a1526fcf5"
             },
             {
                 "name": "Caprese Salad",
@@ -56,12 +55,13 @@
                     "balsamic vinegar"
                 ],
                 "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
-                "image": "https://example.com/images/caprese-salad.jpg"
+                "image": "https://img.freepik.com/free-photo/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-traditional-caprese-salad-ingredients-mediterranean-organic-natural-food-concept_1150-44847.jpg?w=740&t=st=1683038458~exp=1683039058~hmac=2a69333e12c685ac2476372a408bc347ebdaf0cb8cd6c6ac75c9e93c813b86ea"
             }
         ]
     },
     {
-        "name": "Jane Smith",
+        "name": "Jamie Oliver",
+        "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his campaigns to improve the quality of school meals and promote healthy eating. His recipes often feature bold flavors and a focus on fresh, seasonal ingredients.",
         "_id": "2",
         "img": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683024360~exp=1683024960~hmac=f893f3fe4203d0b651dfaa05de39711459550e90004a2c749d68e76128a4bac1",
         "years_of_experience": 8,
@@ -121,17 +121,17 @@
         ]
     },
     {
-        "name": "Mike Johnson",
+        "name": "Nigella Lawson",
+        "description": "Nigella Lawson is an English food writer and television personality. She is the host of several cooking shows, and has written several best-selling cookbooks. Her recipes often feature a mix of traditional British dishes and international flavors.",
         "_id": "3",
         "img": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683024393~exp=1683024993~hmac=91e6a62de2c77e5a7878dcde68faaf35c030d1ca2305abf4096dc0d73f6f86ee",
-        "profile_picture": "https://example.com/images/chef3.jpg",
         "years_of_experience": 5,
         "num_recipes": 20,
         "likes": 500,
         "specialty": "Asian cuisine",
         "recipes": [
             {
-                "name": "Pesto Pasta",
+                "name": "Broccoli Alfredo",
                 "ingredients": [
                     "pasta",
                     "basil",
@@ -141,10 +141,10 @@
                     "parmesan cheese"
                 ],
                 "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
-                "image": "https://example.com/images/pesto-pasta.jpg"
+                "image": "https://img.freepik.com/free-photo/omelette-with-broccoli-tomatoes-red-onions-dark-table-italian-frittata-with-vegetables_2829-20241.jpg?w=740&t=st=1683038788~exp=1683039388~hmac=618d2d9645e58d980540cb3cae6fe23ca9fd362e0385f5295615102e69feca16"
             },
             {
-                "name": "Margherita Pizza",
+                "name": "BBQ Chicken Pizza",
                 "ingredients": [
                     "pizza dough",
                     "tomatoes",
@@ -153,10 +153,10 @@
                     "olive oil"
                 ],
                 "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
-                "image": "https://example.com/images/margherita-pizza.jpg"
+                "image": "https://img.freepik.com/free-photo/tuna-pizza-tomato-capers-cheese-onion-olives-top-view_141793-2490.jpg?w=740&t=st=1683038844~exp=1683039444~hmac=3b5c107fefcc440b5355d8e11213b2a67df5d574de9c7b2be009b50ae1cb8596"
             },
             {
-                "name": "Chicken Alfredo",
+                "name": "Alfredo Tortellini",
                 "ingredients": [
                     "fettuccine pasta",
                     "chicken breast",
@@ -165,7 +165,68 @@
                     "parmesan cheese"
                 ],
                 "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
-                "image": "https://example.com/images/chicken-alfredo.jpg"
+                "image": "https://img.freepik.com/free-photo/meat-dumplings-russian-boiled-pelmeni-plate_2829-13880.jpg?w=740&t=st=1683038889~exp=1683039489~hmac=fec4a6f5e5bc7e2b5c0098396d0beeddfcdd7b96d306cbd9c35703dd75f0b707"
+            },
+            {
+                "name": "Greek Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
+                "image": "https://img.freepik.com/free-photo/front-view-greek-salad-lettuce-with-black-olives_141793-4617.jpg?w=740&t=st=1683038978~exp=1683039578~hmac=cb3896a5c7d715f2770690b2fe7a1bc326ac130d5c73302c1f88b7120d6b63ed"
+            }
+        ]
+    },
+    {
+        "name": "Anthony Bourdain",
+        "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his love of travel and exploration, and his work often focused on the intersection of food, culture, and politics. He passed away in 2018, but his legacy as a culinary icon continues to inspire many.",
+        "_id": "4",
+        "img": "https://img.freepik.com/premium-photo/happy-young-chef-asking-silence-gesturing-with-his-finger_1459-16081.jpg?w=740",
+        "profile_picture": "https://example.com/images/chef4.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 2000,
+        "specialty": "Mediterranean cuisine",
+        "recipes": [
+            {
+                "name": "Caesar Salad ",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/side-view-caesar-salad-with-chicken-parmesan-cheese-white-bowl-wooden-board_140725-11875.jpg?w=740&t=st=1683039059~exp=1683039659~hmac=294700e59ff259154944e01dd5c9618e3fae39a99fe3e6d89bc0056d57eea147"
+            },
+            {
+                "name": "Steak Alfredo",
+                "ingredients": [
+                    "pizza dough",
+                    "tomatoes",
+                    "Taco cheese",
+                    "basil"
+                ],
+                "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-meat-steak-with-french-fries-onion-ring-with-sauce-fresh-vegetable_74190-9937.jpg?w=740&t=st=1683039099~exp=1683039699~hmac=55875b6472715f1b4b7ab753588a1f88377aedb98af14cdfe182a32534113b41"
+            },
+            {
+                "name": "Shrimp Alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
+                "image": "https://img.freepik.com/free-photo/plate-italian-seafood-shrimp-noodles_1205-11873.jpg?w=740&t=st=1683038428~exp=1683039028~hmac=85f80f5126e1863512ffa305941ce7c166f20e9ab8e7cf53fd2f083a1526fcf5"
             },
             {
                 "name": "Caprese Salad",
@@ -177,38 +238,130 @@
                     "balsamic vinegar"
                 ],
                 "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
-                "image": "https://example.com/images/caprese-salad.jpg"
+                "image": "https://img.freepik.com/free-photo/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-traditional-caprese-salad-ingredients-mediterranean-organic-natural-food-concept_1150-44847.jpg?w=740&t=st=1683038458~exp=1683039058~hmac=2a69333e12c685ac2476372a408bc347ebdaf0cb8cd6c6ac75c9e93c813b86ea"
             }
         ]
     },
     {
-        "name": "Sarah Lee",
-        "_id": "4",
-        "img": "https://img.freepik.com/premium-photo/happy-young-chef-asking-silence-gesturing-with-his-finger_1459-16081.jpg?w=740",
-        "profile_picture": "https://example.com/images/chef4.jpg",
-        "years_of_experience": 15,
-        "num_recipes": 100,
-        "likes": 2000,
-        "specialty": "Mediterranean cuisine"
-    },
-    {
-        "name": "David Kim",
+        "name": "Yotam Ottolenghi",
+        "description": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and food writer. He is the author of several best-selling cookbooks, and his recipes often feature a fusion of Middle Eastern and Mediterranean flavors. He is also known for his focus on vegetarian and plant-based cooking.",
         "_id": "5",
         "img": "https://img.freepik.com/free-photo/impressed-young-male-cook-chef-uniform-doing-tasty-gesture-isolated-pink-wall-with-copy-space_141793-101545.jpg?w=740&t=st=1683024493~exp=1683025093~hmac=671a01567829e60e2703a817740065e5421dbd5836df56c4085949867469b61c",
         "profile_picture": "https://example.com/images/chef5.jpg",
         "years_of_experience": 12,
         "num_recipes": 75,
         "likes": 1500,
-        "specialty": "Mexican cuisine"
+        "specialty": "Mexican cuisine",
+        "recipes": [
+            {
+                "name": "Caesar Salad ",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/side-view-caesar-salad-with-chicken-parmesan-cheese-white-bowl-wooden-board_140725-11875.jpg?w=740&t=st=1683039059~exp=1683039659~hmac=294700e59ff259154944e01dd5c9618e3fae39a99fe3e6d89bc0056d57eea147"
+            },
+            {
+                "name": "Steak Alfredo",
+                "ingredients": [
+                    "pizza dough",
+                    "tomatoes",
+                    "Taco cheese",
+                    "basil"
+                ],
+                "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-meat-steak-with-french-fries-onion-ring-with-sauce-fresh-vegetable_74190-9937.jpg?w=740&t=st=1683039099~exp=1683039699~hmac=55875b6472715f1b4b7ab753588a1f88377aedb98af14cdfe182a32534113b41"
+            },
+            {
+                "name": "Shrimp Alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
+                "image": "https://img.freepik.com/free-photo/plate-italian-seafood-shrimp-noodles_1205-11873.jpg?w=740&t=st=1683038428~exp=1683039028~hmac=85f80f5126e1863512ffa305941ce7c166f20e9ab8e7cf53fd2f083a1526fcf5"
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
+                "image": "https://img.freepik.com/free-photo/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-traditional-caprese-salad-ingredients-mediterranean-organic-natural-food-concept_1150-44847.jpg?w=740&t=st=1683038458~exp=1683039058~hmac=2a69333e12c685ac2476372a408bc347ebdaf0cb8cd6c6ac75c9e93c813b86ea"
+            }
+        ]
     },
     {
-        "name": "Emily Chen",
+        "name": "Ina Garten",
+        "description": "Ina Garten, also known as the Barefoot Contessa, is a cookbook author, television personality, and former chef. She is known for her approachable and elegant recipes that emphasize the use of fresh, seasonal ingredients. Garten has hosted several popular cooking shows, including Barefoot Contessa and Cook Like a Pro.",
         "_id": "6",
         "img": "https://img.freepik.com/free-photo/chef-working-together-professional-kitchen_23-2149727991.jpg?w=740&t=st=1683024541~exp=1683025141~hmac=5cf36cec6278559f085b9e8656504f4be9d7ff32acd6196ca54b2eb43decf44f",
         "profile_picture": "https://example.com/images/chef6.jpg",
         "years_of_experience": 7,
         "num_recipes": 40,
         "likes": 600,
-        "specialty": "Vegetarian cuisine"
+        "specialty": "Vegetarian cuisine",
+        "recipes": [
+            {
+                "name": "Caesar Salad ",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/side-view-caesar-salad-with-chicken-parmesan-cheese-white-bowl-wooden-board_140725-11875.jpg?w=740&t=st=1683039059~exp=1683039659~hmac=294700e59ff259154944e01dd5c9618e3fae39a99fe3e6d89bc0056d57eea147"
+            },
+            {
+                "name": "Steak Alfredo",
+                "ingredients": [
+                    "pizza dough",
+                    "tomatoes",
+                    "Taco cheese",
+                    "basil"
+                ],
+                "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-meat-steak-with-french-fries-onion-ring-with-sauce-fresh-vegetable_74190-9937.jpg?w=740&t=st=1683039099~exp=1683039699~hmac=55875b6472715f1b4b7ab753588a1f88377aedb98af14cdfe182a32534113b41"
+            },
+            {
+                "name": "Shrimp Alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
+                "image": "https://img.freepik.com/free-photo/plate-italian-seafood-shrimp-noodles_1205-11873.jpg?w=740&t=st=1683038428~exp=1683039028~hmac=85f80f5126e1863512ffa305941ce7c166f20e9ab8e7cf53fd2f083a1526fcf5"
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
+                "image": "https://img.freepik.com/free-photo/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-traditional-caprese-salad-ingredients-mediterranean-organic-natural-food-concept_1150-44847.jpg?w=740&t=st=1683038458~exp=1683039058~hmac=2a69333e12c685ac2476372a408bc347ebdaf0cb8cd6c6ac75c9e93c813b86ea"
+            }
+        ]
     }
 ]
