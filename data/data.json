@@ -1,34 +1,190 @@
 [
     {
         "name": "John Doe",
-        "img" : "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683024312~exp=1683024912~hmac=b59eca85b6cae790c2ff97f4aaa0b7de239b56df0a635132da3c87954297bf08",
+        "_id": "1",
+        "img": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683024312~exp=1683024912~hmac=b59eca85b6cae790c2ff97f4aaa0b7de239b56df0a635132da3c87954297bf08",
         "profile_picture": "https://example.com/images/chef1.jpg",
         "years_of_experience": 10,
         "num_recipes": 50,
         "likes": 1000,
-        "specialty": "Italian cuisine"
+        "specialty": "Italian cuisine",
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
+                "image": "https://example.com/images/pesto-pasta.jpg"
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil"
+                ],
+                "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
+                "image": "https://example.com/images/margherita-pizza.jpg"
+            },
+            {
+                "name": "Chicken Alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
+                "image": "https://example.com/images/chicken-alfredo.jpg"
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
+                "image": "https://example.com/images/caprese-salad.jpg"
+            }
+        ]
     },
     {
         "name": "Jane Smith",
-        "img" : "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683024360~exp=1683024960~hmac=f893f3fe4203d0b651dfaa05de39711459550e90004a2c749d68e76128a4bac1",
-        "profile_picture": "https://example.com/images/chef2.jpg",
+        "_id": "2",
+        "img": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683024360~exp=1683024960~hmac=f893f3fe4203d0b651dfaa05de39711459550e90004a2c749d68e76128a4bac1",
         "years_of_experience": 8,
         "num_recipes": 30,
         "likes": 750,
-        "specialty": "French cuisine"
+        "specialty": "French cuisine",
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=740&t=st=1683035561~exp=1683036161~hmac=fd8846eb988cca0529028261f66783f20468f4e928a055bad706b2bcb3f285d1"
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "bas    il",
+                    "olive oil"
+                ],
+                "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
+                "image": "https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=740&t=st=1683035626~exp=1683036226~hmac=342b526e2e29592aaafb48f53f03a3c88f7f23e7982c553ee547886b6e6610c7"
+            },
+            {
+                "name": "Chicken Alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
+                "image": "https://img.freepik.com/free-photo/beyti-wrapped-kebab-topped-with-tomato-sauce-served-with-tomato-pepper-yoghurt_140725-545.jpg?w=740&t=st=1683035717~exp=1683036317~hmac=fafaa3eaf186b7a327b0182a0e6c6318d3e20a62f5465318b3517fd6b076733d"
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
+                "image": "https://img.freepik.com/free-photo/caprese-salad-healthy-meal-with-cherry-tomatoes-mozzarella-balls-basil-home-made-tasty-food-concept-tasty-healthy-vegetarian-meal_2829-7131.jpg?w=740&t=st=1683035814~exp=1683036414~hmac=7ba9db9299aa98ad04983abdcd176d7c0eedeb0f61ad8521ea17582f022c1cbc"
+            }
+        ]
     },
     {
         "name": "Mike Johnson",
+        "_id": "3",
         "img": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683024393~exp=1683024993~hmac=91e6a62de2c77e5a7878dcde68faaf35c030d1ca2305abf4096dc0d73f6f86ee",
         "profile_picture": "https://example.com/images/chef3.jpg",
         "years_of_experience": 5,
         "num_recipes": 20,
         "likes": 500,
-        "specialty": "Asian cuisine"
+        "specialty": "Asian cuisine",
+        "recipes": [
+            {
+                "name": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "garlic",
+                    "pine nuts",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. 3. Mix pesto sauce with cooked pasta. 4. Top with parmesan cheese.",
+                "image": "https://example.com/images/pesto-pasta.jpg"
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil"
+                ],
+                "instructions": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on top of the dough. 4. Top with mozzarella cheese and basil. 5. Drizzle olive oil over the pizza. 6. Bake for 10-12 minutes.",
+                "image": "https://example.com/images/margherita-pizza.jpg"
+            },
+            {
+                "name": "Chicken Alfredo",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "chicken breast",
+                    "heavy cream",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "instructions": "1. Cook pasta according to package directions. 2. Season chicken breast with salt and pepper, then cook in a skillet until no longer pink. 3. In the same skillet, sauté garlic until fragrant. 4. Add heavy cream and parmesan cheese, and stir until cheese has melted. 5. Add cooked pasta and chicken to the sauce, and toss to combine.",
+                "image": "https://example.com/images/chicken-alfredo.jpg"
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": "1. Slice tomatoes and mozzarella cheese into thin rounds. 2. Alternate tomato and mozzarella slices on a plate. 3. Drizzle with olive oil and balsamic vinegar. 4. Top with fresh basil leaves.",
+                "image": "https://example.com/images/caprese-salad.jpg"
+            }
+        ]
     },
     {
         "name": "Sarah Lee",
-        "img":"https://img.freepik.com/premium-photo/happy-young-chef-asking-silence-gesturing-with-his-finger_1459-16081.jpg?w=740",
+        "_id": "4",
+        "img": "https://img.freepik.com/premium-photo/happy-young-chef-asking-silence-gesturing-with-his-finger_1459-16081.jpg?w=740",
         "profile_picture": "https://example.com/images/chef4.jpg",
         "years_of_experience": 15,
         "num_recipes": 100,
@@ -37,7 +193,8 @@
     },
     {
         "name": "David Kim",
-        "img" : "https://img.freepik.com/free-photo/impressed-young-male-cook-chef-uniform-doing-tasty-gesture-isolated-pink-wall-with-copy-space_141793-101545.jpg?w=740&t=st=1683024493~exp=1683025093~hmac=671a01567829e60e2703a817740065e5421dbd5836df56c4085949867469b61c",
+        "_id": "5",
+        "img": "https://img.freepik.com/free-photo/impressed-young-male-cook-chef-uniform-doing-tasty-gesture-isolated-pink-wall-with-copy-space_141793-101545.jpg?w=740&t=st=1683024493~exp=1683025093~hmac=671a01567829e60e2703a817740065e5421dbd5836df56c4085949867469b61c",
         "profile_picture": "https://example.com/images/chef5.jpg",
         "years_of_experience": 12,
         "num_recipes": 75,
@@ -46,7 +203,8 @@
     },
     {
         "name": "Emily Chen",
-        "img" : "https://img.freepik.com/free-photo/chef-working-together-professional-kitchen_23-2149727991.jpg?w=740&t=st=1683024541~exp=1683025141~hmac=5cf36cec6278559f085b9e8656504f4be9d7ff32acd6196ca54b2eb43decf44f",
+        "_id": "6",
+        "img": "https://img.freepik.com/free-photo/chef-working-together-professional-kitchen_23-2149727991.jpg?w=740&t=st=1683024541~exp=1683025141~hmac=5cf36cec6278559f085b9e8656504f4be9d7ff32acd6196ca54b2eb43decf44f",
         "profile_picture": "https://example.com/images/chef6.jpg",
         "years_of_experience": 7,
         "num_recipes": 40,
