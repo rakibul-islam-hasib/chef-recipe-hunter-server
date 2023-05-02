@@ -1,6 +1,7 @@
 [
     {
         "name": "John Doe",
+        "img" : "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683024312~exp=1683024912~hmac=b59eca85b6cae790c2ff97f4aaa0b7de239b56df0a635132da3c87954297bf08",
         "profile_picture": "https://example.com/images/chef1.jpg",
         "years_of_experience": 10,
         "num_recipes": 50,
@@ -9,6 +10,7 @@
     },
     {
         "name": "Jane Smith",
+        "img" : "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683024360~exp=1683024960~hmac=f893f3fe4203d0b651dfaa05de39711459550e90004a2c749d68e76128a4bac1",
         "profile_picture": "https://example.com/images/chef2.jpg",
         "years_of_experience": 8,
         "num_recipes": 30,
@@ -17,6 +19,7 @@
     },
     {
         "name": "Mike Johnson",
+        "img": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=740&t=st=1683024393~exp=1683024993~hmac=91e6a62de2c77e5a7878dcde68faaf35c030d1ca2305abf4096dc0d73f6f86ee",
         "profile_picture": "https://example.com/images/chef3.jpg",
         "years_of_experience": 5,
         "num_recipes": 20,
@@ -25,6 +28,7 @@
     },
     {
         "name": "Sarah Lee",
+        "img":"https://img.freepik.com/premium-photo/happy-young-chef-asking-silence-gesturing-with-his-finger_1459-16081.jpg?w=740",
         "profile_picture": "https://example.com/images/chef4.jpg",
         "years_of_experience": 15,
         "num_recipes": 100,
@@ -33,6 +37,7 @@
     },
     {
         "name": "David Kim",
+        "img" : "https://img.freepik.com/free-photo/impressed-young-male-cook-chef-uniform-doing-tasty-gesture-isolated-pink-wall-with-copy-space_141793-101545.jpg?w=740&t=st=1683024493~exp=1683025093~hmac=671a01567829e60e2703a817740065e5421dbd5836df56c4085949867469b61c",
         "profile_picture": "https://example.com/images/chef5.jpg",
         "years_of_experience": 12,
         "num_recipes": 75,
@@ -41,6 +46,7 @@
     },
     {
         "name": "Emily Chen",
+        "img" : "https://img.freepik.com/free-photo/chef-working-together-professional-kitchen_23-2149727991.jpg?w=740&t=st=1683024541~exp=1683025141~hmac=5cf36cec6278559f085b9e8656504f4be9d7ff32acd6196ca54b2eb43decf44f",
         "profile_picture": "https://example.com/images/chef6.jpg",
         "years_of_experience": 7,
         "num_recipes": 40,

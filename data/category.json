@@ -8,26 +8,31 @@
     {
         "id": 2,
         "title": "Vegan",
+        "color": "linear-gradient(180deg, rgba(108, 198, 63, 0) 0%, rgba(108, 198, 63, 0.1) 100%)", 
         "image": "https://i.ibb.co/GkCmggN/vegetarian.png"
     },
     {
         "id": 3,
         "title": "Desserts",
+        "color" : "linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgba(204, 38, 27, 0.1) 100%)",
         "image": "https://i.ibb.co/M7k8b9b/cupcake.png"
     },
     {
         "id": 4,
         "title": "Gluten-Free",
+        "color": "linear-gradient(180deg, rgba(240, 158, 0, 0) 0%, rgba(240, 158, 0, 0.1) 100%)",
         "image": "https://i.ibb.co/2yPVmYT/gluten-free.png"
     },
     {
         "id": 5,
         "title": "Appetizers",
+        "color" : "linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%)", 
         "image": "https://i.ibb.co/HHsmJ8g/nachos.png"
     },
     {
         "id": 6,
         "title": "Drinks",
+        "color" : "linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%)",
         "image": "https://i.ibb.co/N2qcnLq/drink.png"
     }
 ]
