@@ -1,0 +1,8 @@
+{
+    "name": "Recipes Name Here",
+    "ingredients": [
+        "ingredients here as an array minmum 3 items and maximum 6 items "
+    ],
+    "instructions": "how to cook here as a string",
+    "image": "image url here as a string"
+}
